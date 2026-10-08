@@ -1,0 +1,59 @@
+{
+  "slug": "snowflakes-wedding-planners-kothamangalam",
+  "name": "Snowflakes Wedding Planners",
+  "shortName": "Snowflakes",
+  "descriptor": "Event Management",
+  "address": "Chinayapillyil house, Mullaringadu - Chathamattom Rd, po, Paingottoor, Kothamangalam, Keralam 686671",
+  "area": "Kothamangalam",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686671",
+  "geo": {
+    "lat": 10.0243342,
+    "lng": 76.7208453
+  },
+  "mapsLink": "https://maps.google.com/?cid=7428106999756790067",
+  "phone": "+91 97455 89895",
+  "whatsapp": "919745589895",
+  "hours": "Open 8 am – 9 pm · all days",
+  "opens": "08:00",
+  "closes": "21:00",
+  "rating": 4.8,
+  "reviewCount": 31,
+  "reviews": [
+    {
+      "name": "Ajo Eldho",
+      "rating": 5,
+      "quote": "We had an amazing experience with snowflakes wedding planners from start to finish. Their team was professional, organized, and attentive to every detail, making the entire wedding planning process smooth and stress-free. The decorations, coordination, and overall execution exceeded our expectations."
+    },
+    {
+      "name": "Nithin Ranan",
+      "rating": 5,
+      "quote": "We are extremely happy with the work done by Snowflakes Wedding Planners for my son’s naming ceremony. The stage decoration was absolutely stunning and truly exceeded our expectations. Every detail was arranged perfectly, and the decoration added so much beauty to our special day. A special thanks to Mr."
+    },
+    {
+      "name": "Adv. Basil Scaria",
+      "rating": 5,
+      "quote": "Snowflakes Event Company did a wonderful job for my marriage functions. The owner, Bibin, is a very positive and supportive person. He gave great support for the entire stage work at both my home and the reception hall. Even with limited time, he managed everything very well and delivered excellent results at a reasonable price."
+    },
+    {
+      "name": "Roshil Raju",
+      "rating": 5,
+      "quote": "Recommending Snowflakes wedding planners to all. Fully satisfied with their work and met all our requirements. Bibin and his team is fully approachable and friendly. Thanks much. 👏👏👏👍👍"
+    },
+    {
+      "name": "Roshin George",
+      "rating": 5,
+      "quote": "We had a fantastic experience with the event team! The stage decorations were absolutely stunning and added a vibrant touch to the entire event. Communication with the team was smooth and prompt, making the planning process hassle-free. Their pricing was reasonable and provided great value for the quality of service."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://snowflakes-wedding-planners-kothama.vercel.app"
+}
